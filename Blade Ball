@@ -1,0 +1,6 @@
+-- Provided by Crowhub Scriptware
+-- Press "X" To spam block
+-- Mobile Support
+
+getgenv().visualizer = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/main/RedCircleBlock"))()
